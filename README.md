@@ -1,3 +1,3 @@
 this is my first git repository
 <br>
-Author pranav raj
+Author pranav raj (backend developer)
